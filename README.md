@@ -23,3 +23,10 @@ Matplotlib & Seaborn: For visualizing data and model performance.
 Scikit-learn: For building and evaluating machine learning models (Linear Regression, Lasso Regression, Random Forest Regression).
 
 Jupyter Notebook: Environment used to document and run the code.
+
+## Key Insights
+Smoking and BMI: These two factors had the most significant impact on insurance charges.
+
+Smokers: Smokers had significantly higher insurance charges compared to non-smokers.
+
+BMI: Higher BMI values were positively correlated with higher insurance charges.
